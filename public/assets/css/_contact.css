@@ -1,0 +1,12 @@
+/* Book Table Area css
+============================================================================================ */
+.book_table_inner .book_table_item {
+  width: calc(98% / 5);
+  float: left;
+  overflow: hidden;
+}
+
+/* End Book Table Area css
+============================================================================================ */
+
+/*# sourceMappingURL=_contact.css.map */
